@@ -1,1 +1,2 @@
 hello World
+Git is a high quality version control system.
